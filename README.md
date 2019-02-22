@@ -1,2 +1,2 @@
-# MuhinaAlexandra.github.io
-Dlya lab
+#Лабораторные работы
+
